@@ -1,0 +1,6 @@
+group of elements are there in Array List and Linked List and HasSet.
+Duplicates are allowed in LL and Al and not allowed in HasSet.
+Homogenius elements are allowed in AL and LL and HS.
+Insertion order is possible in AL and LL and only one time in HS.
+Indexing concept is possible in AL and LL and not possible in HS.
+Order Guarenty is there in AL and LL and not possiblr in Hs.
