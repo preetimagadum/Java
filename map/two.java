@@ -14,7 +14,7 @@ class Test{
         Set<Map.Entry<String,String>> entries=product.entrySet();
 
         for(Map.Entry<String,String> entry : entries){
-            System.out.println(entry.getKey()+":"+entry.get.Values());
+            System.out.println(entry.getKey()+ ":" +entry.getValue());
         }
      }
 }
